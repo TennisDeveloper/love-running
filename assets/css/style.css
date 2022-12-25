@@ -171,3 +171,9 @@ hr {
     height: 100%;
     border-radius: 50%;
 }
+
+#welcome {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 280%
+}
